@@ -1,4 +1,4 @@
-nyaacat_static_page
+Nyaa.cat Static Page
 ===================
 
-The hole site static repo.
+The whole site static page repo.
